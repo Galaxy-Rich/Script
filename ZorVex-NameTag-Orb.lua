@@ -27,7 +27,7 @@ local TargetUsers = {
     ["whitedragons25"] = "Vz Imperal",
     ["reyy_18791"] = "Vz Reyy",
     ["sugiono2111"] = "Vz Rosemary",
-    ["312Y97"] = "Vz StarLight",
+    ["312y97"] = "Vz StarLight",
     ["zxuannoob9"] = "Vz VinsStoreWML",
     ["leeryzn"] = "Vz Noname",
 } 
