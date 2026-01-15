@@ -10,9 +10,12 @@ local UsernamesToHide = {
     ["IG_ZorVex"] = true,
     ["STNodddP11"] = true,
     ["Vz_bimvuszzz"] = true,
-    ["naruto1245172"] = true,
+    ["WHITEDRAGONS25"] = true,
     ["sugiono2111"] = true,
     ["Reyy_18791"] = true,
+    ["312Y97"] = true,
+    ["ZxuanNoob9"] = true, 
+    ["Leeryzn"] = true,
     ["Seller_ZorVex"] = true
 }
 
@@ -21,9 +24,12 @@ local TargetUsers = {
     ["ig_zorvex"] = "ZorVex",
     ["seller_zorvex"] = "OWNER",
     ["vz_bimvuszzz"] = "Vz Bimvuzzz",
-    ["naruto1245172"] = "Vz Atan",
-    ["Reyy_18791"] = "Vz Reyy",
+    ["whitedragons25"] = "Vz Imperal",
+    ["reyy_18791"] = "Vz Reyy",
     ["sugiono2111"] = "Vz Rosemary",
+    ["312Y97"] = "Vz StarLight",
+    ["zxuannoob9"] = "Vz VinsStoreWML",
+    ["leeryzn"] = "Vz Noname",
 } 
 
 local FLASH_FRAMES = {
