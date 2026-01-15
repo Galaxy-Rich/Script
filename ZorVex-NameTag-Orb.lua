@@ -9,8 +9,8 @@ local OrbTargetUsername = "IG_ZorVex"
 local UsernamesToHide = {
     ["IG_ZorVex"] = true,
     ["STNodddP11"] = true,
-    ["Dxf_nann"] = true,
-    ["Likoyou"] = true,
+    ["Vz_bimvuszzz"] = true,
+    ["naruto1245172"] = true,
     ["Immajr"] = true
 }
 
@@ -18,8 +18,8 @@ local TargetUsers = {
     ["stnodddp11"] = "Vz Black Hole",
     ["ig_zorvex"] = "ZorVex",
     ["seller_zorvex"] = "OWNER",
-    ["likoyou"] = "Member Vz",
-    ["immajr"] = "Member Vz",
+    ["vz_bimvuszzz"] = "Vz Bimvuzzz",
+    ["naruto1245172"] = "Vz Atan",
 } 
 
 local FLASH_FRAMES = {
