@@ -11,7 +11,9 @@ local UsernamesToHide = {
     ["STNodddP11"] = true,
     ["Vz_bimvuszzz"] = true,
     ["naruto1245172"] = true,
-    ["Immajr"] = true
+    ["sugiono2111"] = true,
+    ["Reyy_18791"] = true,
+    ["Seller_ZorVex"] = true
 }
 
 local TargetUsers = { 
@@ -20,6 +22,8 @@ local TargetUsers = {
     ["seller_zorvex"] = "OWNER",
     ["vz_bimvuszzz"] = "Vz Bimvuzzz",
     ["naruto1245172"] = "Vz Atan",
+    ["Reyy_18791"] = "Vz Reyy",
+    ["sugiono2111"] = "Vz Rosemary",
 } 
 
 local FLASH_FRAMES = {
