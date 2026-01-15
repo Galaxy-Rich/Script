@@ -74,7 +74,7 @@ end
 local isZorVex = checkWhitelist(URL_ZORVEX)
 
 if isZorVex then
-    displayNotification("ZorVex Detected\nScript Active", false)
+    displayNotification("VIP Detected\nScript Active", false)
     
     task.wait(2)
     
@@ -83,6 +83,6 @@ if isZorVex then
     
 else
     -- Jika tidak terdaftar (Teks akan berwarna Merah)
-    displayNotification("Not Vz\nScript Not Active", true)
+    displayNotification("Not VIP\nScript Not Active", true)
     warn("HWID tidak terdaftar di database manapun.")
 end
